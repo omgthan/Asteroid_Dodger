@@ -7,3 +7,4 @@ The game is about moving a small spaceship around the screen, dodging incoming a
 ## Controls
 - `ENTER` to begin the game
 - `WASD` to move
+- `R` to restart
